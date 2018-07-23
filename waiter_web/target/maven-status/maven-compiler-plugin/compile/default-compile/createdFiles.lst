@@ -1,0 +1,7 @@
+com/cafe/waiter/security/auth/WaiterAuthenticator.class
+com/cafe/waiter/api/model/login/LoginModel.class
+com/cafe/waiter/security/auth/WaiterAuthenticator$WaiterAuth.class
+com/cafe/waiter/configs/WebSecurityConfig.class
+com/cafe/waiter/api/controller/login/LoginController.class
+com/cafe/waiter/api/controller/waiter/WaiterController.class
+com/cafe/waiter/application/WaiterApplication.class
